@@ -1,0 +1,33 @@
+body
+{
+    background: rgb(126, 185, 245);
+    color: white;
+}
+
+h1,h4
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h5
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2,button
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#camera
+{
+    width:360px;
+    height: 250px;
+    border: 8px ridge grey;
+}
+
+#result1,#resultw,#result3
+{
+    width: 150px;  
+}
+
